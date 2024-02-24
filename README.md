@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal Tyagi</h1>
-<h3 align="center">I'm a passionate Full Stack Development student on a journey to master the MERN stack. Currently immersed in the world of coding, I thrive on turning ideas into interactive and dynamic web applications.</h3>
+<h3 align="center">I'm a passionate Full Stack Development student on a journey to master the MERN stack. Currently immersed in the world of coding 🌐, I thrive on turning ideas into interactive and dynamic web applications 💻✨.</h3>
 
 <img width="400" align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Coding">
 
