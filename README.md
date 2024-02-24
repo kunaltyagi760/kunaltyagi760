@@ -14,8 +14,8 @@
 - 📫 How to reach me **kunaltyagi760@gmail.com**
 
 - 💼 Portfolio - [kunaltyagi760.github.io/my_portfolio](https://kunaltyagi760.github.io/my_portfolio/)
-
-<p align="left">
+## 🌐 Socials
+ <p align="left">
  <a href="https://kunaltyagi760.github.io/my_portfolio/" target="blank">
   <img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Portfolio" />
  </a>
@@ -23,20 +23,20 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
  </a>
  <a href="https://www.hackerrank.com/profile/kunaltyagi760" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-20BEFF?&style=for-the-badge&logo=HackerRank&logoColor=white" alt="Govendra"  />
+  <img src="https://img.shields.io/badge/HackerRank-20BEFF?&style=for-the-badge&logo=HackerRank&logoColor=white" alt="Kunal"  />
   </a> 
 </p>
-<hr>
-<br></br>
-# 💻 Tech Stack
+
+
+# 💻 Skills and Tools
 ![Python](https://img.shields.io/badge/Python-%23563D7C.svg?style=for-the-badge&logo=Python&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Tailwind CSS](https://img.shields.io/badge/Tailwindcss-%23563D7C.svg?style=for-the-badge&logo=Tailwindcss&logoColor=white) 
-
-<br></br>
+![Tailwind CSS](https://img.shields.io/badge/Tailwindcss-%23563D7C.svg?style=for-the-badge&logo=Tailwindcss&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 # 📊 GitHub Stats
 <p align="left">
   <a href="https://github.com/kunaltyagi760">
@@ -53,5 +53,5 @@
 <a> 
     <a href="https://github.com/kunaltyagi760"><img alt="My Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=kunaltyagi760&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/kunaltyagi760"><img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kunaltyagi760&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-
+  <br/>
 </a>
