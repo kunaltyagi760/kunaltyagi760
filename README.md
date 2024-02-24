@@ -14,20 +14,7 @@
 - 📫 How to reach me **kunaltyagi760@gmail.com**
 
 - 💼 Portfolio - [kunaltyagi760.github.io/my_portfolio](https://kunaltyagi760.github.io/my_portfolio/)
-## 🌐 Socials
- <p align="left">
- <a href="https://kunaltyagi760.github.io/my_portfolio/" target="blank">
-  <img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Portfolio" />
- </a>
- <a href="https://www.linkedin.com/in/kunal-tyagi-752982252/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
- </a>
- <a href="https://www.hackerrank.com/profile/kunaltyagi760" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-20BEFF?&style=for-the-badge&logo=HackerRank&logoColor=white" alt="Kunal"  />
-  </a> 
-</p>
-
-
+  
 # 💻 Skills and Tools
 ![Python](https://img.shields.io/badge/Python-%23563D7C.svg?style=for-the-badge&logo=Python&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
