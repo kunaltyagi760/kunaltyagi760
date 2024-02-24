@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kunaltyagi760@gmail.com**
 
-- 💼 Portfolio - [huzaifa-sheikh.netlify.app](https://huzaifa-sheikh.netlify.app/)
+- 💼 Portfolio - [kunaltyagi760.github.io/my_portfolio](https://kunaltyagi760.github.io/my_portfolio/)
 
 <br>
 
