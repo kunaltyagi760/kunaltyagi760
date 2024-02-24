@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kunal Tyagi</h1>
 <h3 align="center">I'm a passionate Full Stack Development student on a journey to master the MERN stack. Currently immersed in the world of coding 🌐, I thrive on turning ideas into interactive and dynamic web applications 💻✨.</h3>
 
-<img width="400" align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Coding">
+<img width="400" height="auto" align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunaltyagi760&label=Profile%20views&color=0e75b6&style=flat" alt="kunaltyagi760" /> </p>
 
@@ -14,6 +14,7 @@
 - 📫 How to reach me **kunaltyagi760@gmail.com**
 
 - 💼 Portfolio - [kunaltyagi760.github.io/my_portfolio](https://kunaltyagi760.github.io/my_portfolio/)
+
 
 <br>
 
@@ -39,7 +40,8 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwindcss-%23563D7C.svg?style=for-the-badge&logo=Tailwindcss&logoColor=white) 
 
-## GitHub Stats:
+
+# 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/kunaltyagi760">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunaltyagi760&theme=radical&border=7F3FBF&background=0D1117" alt="My GitHub streak"/>
